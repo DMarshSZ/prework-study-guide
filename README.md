@@ -3,7 +3,7 @@ Study Guide Created for Bootcamp Prework
 
 ## Description
 
-This study guy was created as apart of the precourse work assignment to build a webpage utilizing HTML, CSS, JavaScript, and Git in conjunction to get a feel for web development.
+This study guide was created as apart of the precourse work assignment to build a webpage utilizing HTML, CSS, JavaScript, and Git in conjunction to get a feel for web development.
 
 
 ## Table of Contents (Optional)
